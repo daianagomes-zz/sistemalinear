@@ -1,8 +1,4 @@
 1a. linha
 Criei uma função
-a=44
-
-
-
-
+a=33
 
